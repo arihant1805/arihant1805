@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arihant kumar jain</h1>
 <h3 align="center">A passionate AI/ML enthusiast and a Competitive programmer</h3>
+I look myself as an enthusiastic individual looking for great opportunities and experience in the world of IT
+
+Passionate aspiring AI/ML enthusiast 🤖📚! Excited to embark on a journey into the world of Artificial Intelligence and Machine Learning. 🚀 Ready to transform data into insights and create innovative solutions. 🤯 Let's code the future together! 💻🌟 #AI #ML #FutureTech
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant1805&label=Profile%20views&color=0e75b6&style=flat" alt="arihant1805" /> </p>
 
