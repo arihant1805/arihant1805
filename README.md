@@ -4,9 +4,6 @@ I look myself as an enthusiastic individual looking for great opportunities and 
 
 Passionate aspiring AI/ML enthusiast 🤖📚! Excited to embark on a journey into the world of Artificial Intelligence and Machine Learning. 🚀 Ready to transform data into insights and create innovative solutions. 🤯 Let's code the future together! 💻🌟 #AI #ML #FutureTech
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant1805&label=Profile%20views&color=0e75b6&style=flat" alt="arihant1805" /> </p>
-
-<p align="left"> <a href="https://twitter.com/arihant__18" target="blank"><img src="https://img.shields.io/twitter/follow/arihant__18?logo=twitter&style=for-the-badge" alt="arihant__18" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
