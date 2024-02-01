@@ -7,7 +7,7 @@ Passionate aspiring AI/ML enthusiast 🤖📚! Excited to embark on a journey in
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arihant__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="arihant__18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arihant-jain-ba0061260" target="blank"><img align="center" src="https://twitter.com/home" alt="arihant-jain-ba0061260" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arihant-jain-ba0061260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arihant-jain-ba0061260" height="30" width="40" /></a>
 <a href="https://instagram.com/arihant.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arihant.18" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNCjCUuXoDvg1Q5rRkPPmNQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@the_golden_eyes" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/arihant.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arihant.18" height="30" width="40" /></a>
