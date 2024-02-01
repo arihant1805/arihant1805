@@ -3,7 +3,11 @@
 I look myself as an enthusiastic individual looking for great opportunities and experience in the world of IT
 
 Passionate aspiring AI/ML enthusiast 🤖📚! Excited to embark on a journey into the world of Artificial Intelligence and Machine Learning. 🚀 Ready to transform data into insights and create innovative solutions. 🤯 Let's code the future together! 💻🌟 #AI #ML #FutureTech
-
+<style>
+  .body{
+    background color:
+  }
+</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
