@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arihant Kumar Jain</h1>
+<h1 align="center">Hi 👋, I'm Arihant Jain</h1>
 <h3 align="center">A passionate AI/ML enthusiast and a Competitive programmer</h3>
 I look myself as an enthusiastic individual looking for great opportunities and experience in the world of IT
 
@@ -19,7 +19,8 @@ Passionate aspiring AI/ML enthusiast 🤖📚! Excited to embark on a journey in
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="tensorflow" height="60"/> </a> &#160 &#160 
- <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="tensorflow" height="57"/> </a> &#160  &#160
+ <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/360px-Keras_logo.svg.png" alt="Keras" height="60"/> </a> &#160 &#160 
+ <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="tensorflow" height="55"/> </a> &#160  &#160
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" alt="fastapi" height="53"/> </a> &#160  &#160
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="50" height="50"/> </a> &#160 
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" height="47"/> </a>  &#160 &#160 
