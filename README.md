@@ -15,14 +15,28 @@ Passionate aspiring AI/ML enthusiast 🤖📚! Excited to embark on a journey in
 <a href="https://www.leetcode.com/arihant_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arihant_18" height="30" width="40" /></a>
 </p>
 <br>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="tensorflow" height="40"/> </a> &#160 
- <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="tensorflow" height="40"/> </a> &#160 
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="50" height="50"/> </a> &#160 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" height="50"/> </a>
- &#160 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &#160 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &#160 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+ <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="tensorflow" height="60"/> </a> &#160 &#160 
+ <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="tensorflow" height="57"/> </a> &#160  &#160
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" alt="fastapi" height="53"/> </a> &#160  &#160
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="50" height="50"/> </a> &#160 
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" height="47"/> </a>  &#160 &#160 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="43" height="43"/> </a> &#160  &#160
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &#160  &#160
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="37" height="37"/> </a> </p>
+<br>
+
+<h3 align="left">Platforms:</h3>
+<p align="left"> 
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" height="50"/> </a> &#160 &#160  &#160 
+ <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" height="50"/> </a> &#160  &#160  &#160  
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="github" height="50"/> </a> &#160  &#160  &#160  
+<a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" height="50"/> </a> &#160  &#160  &#160  
+</p>
+
+ 
  <br><br>
 <picture>
   <source
